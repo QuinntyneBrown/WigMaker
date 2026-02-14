@@ -1,6 +1,6 @@
 using Microsoft.Playwright;
 
-namespace WigMaker.Services;
+namespace WigMaker.Cli.Services;
 
 public interface IBrowserService : IAsyncDisposable
 {

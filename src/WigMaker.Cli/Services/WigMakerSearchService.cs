@@ -1,10 +1,10 @@
 using System.Text.RegularExpressions;
 using Microsoft.Extensions.Logging;
 using Microsoft.Playwright;
-using WigMaker.Configuration;
-using WigMaker.Models;
+using WigMaker.Cli.Configuration;
+using WigMaker.Cli.Models;
 
-namespace WigMaker.Services;
+namespace WigMaker.Cli.Services;
 
 public sealed partial class WigMakerSearchService : IWigMakerSearchService
 {

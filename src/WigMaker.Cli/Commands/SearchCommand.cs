@@ -1,9 +1,9 @@
 using System.CommandLine;
 using Microsoft.Extensions.Logging;
-using WigMaker.Configuration;
-using WigMaker.Services;
+using WigMaker.Cli.Configuration;
+using WigMaker.Cli.Services;
 
-namespace WigMaker.Commands;
+namespace WigMaker.Cli.Commands;
 
 public static class SearchCommand
 {

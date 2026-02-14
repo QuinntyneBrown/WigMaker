@@ -1,4 +1,4 @@
-namespace WigMaker.Configuration;
+namespace WigMaker.Cli.Configuration;
 
 public sealed class SearchSettings
 {

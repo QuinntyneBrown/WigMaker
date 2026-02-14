@@ -1,8 +1,8 @@
 using Microsoft.Extensions.Logging;
 using Microsoft.Playwright;
-using WigMaker.Configuration;
+using WigMaker.Cli.Configuration;
 
-namespace WigMaker.Services;
+namespace WigMaker.Cli.Services;
 
 public sealed class PlaywrightBrowserService : IBrowserService
 {

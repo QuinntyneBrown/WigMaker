@@ -1,6 +1,6 @@
-using WigMaker.Models;
+using WigMaker.Cli.Models;
 
-namespace WigMaker.Services;
+namespace WigMaker.Cli.Services;
 
 public interface IWigMakerSearchService
 {
