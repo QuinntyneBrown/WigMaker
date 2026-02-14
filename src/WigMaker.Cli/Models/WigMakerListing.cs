@@ -1,4 +1,4 @@
-namespace WigMaker.Models;
+namespace WigMaker.Cli.Models;
 
 public sealed class WigMakerListing
 {
